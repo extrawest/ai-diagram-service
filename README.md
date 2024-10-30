@@ -10,7 +10,11 @@ This Java Spring Boot service leverages TogetherAI's advanced models to convert 
 
 
 
-[screen-capture.webm](https://github.com/user-attachments/assets/468ef903-f220-4d69-9252-5013ba0c0499)
+
+
+https://github.com/user-attachments/assets/828d151d-9c77-41d3-bcf1-fc289ff2c885
+
+
 
 
 
