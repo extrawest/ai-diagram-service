@@ -84,7 +84,7 @@ public class ToDiagramProcess implements ImageToDiagram {
             return mapOf("diagram", result);
         } else {
             var outputParser = new DiagramOutputParser();
-            Diagram.Element result = outputParser.parse(imageData);
+            Diagram.Element result = outputParser.parse("```json\n" + imageData + "\n```");
             return mapOf("diagram", result);
         }
     }
